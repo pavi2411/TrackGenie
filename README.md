@@ -142,5 +142,62 @@ Plan   What-If   Re-plan
 - 📈 Continuous learning from historical railway operations.
 
 ---
+
 ## 🖥️ Prototype
 
+
+<div align="center">
+
+<h3>1. Landing Page</h3>
+
+<img src="WhatsApp%20Image%202026-09-15%20at%204.58.05%20PM.jpeg" width="80%">
+
+<br><br>
+⬇️
+<br><br>
+
+<h3>2. Control Center</h3>
+
+<img src="WhatsApp%20Image%202026-09-15%20at%204.59.29%20PM.jpeg" width="80%">
+
+<br><br>
+⬇️
+<br><br>
+
+<h3>3. Block Planner</h3>
+
+<img src="WhatsApp%20Image%202026-09-15%20at%205.00.37%20PM.jpeg" width="80%">
+
+<br><br>
+⬇️
+<br><br>
+
+<h3>4. What-If Analysis</h3>
+
+<img src="WhatsApp%20Image%202026-09-15%20at%205.01.52%20PM.jpeg" width="80%">
+
+<br><br>
+⬇️
+<br><br>
+
+<h3>5. Emergency Management</h3>
+
+<img src="WhatsApp%20Image%202026-09-15%20at%205.03.22%20PM.jpeg" width="80%">
+
+<br><br>
+⬇️
+<br><br>
+
+<h3>6. Network & AI Insights</h3>
+
+<img src="WhatsApp%20Image%202026-09-15%20at%205.05.50%20PM.jpeg" width="80%">
+
+<br><br>
+⬇️
+<br><br>
+
+<h3>7. Final Optimization View</h3>
+
+<img src="WhatsApp%20Image%202026-09-15%20at%205.07.13%20PM.jpeg" width="80%">
+
+</div>
