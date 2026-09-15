@@ -4,6 +4,13 @@
 
 ---
 
+
+## 📋 Problem Statement
+
+> To develop an intelligent system that automatically plans and dynamically replans railway maintenance blocks by considering train schedules, track availability, maintenance requirements, priorities and operational conflicts.
+
+---
+
 ## 🎯 The Problem
 
 - 🛠️ Railway tracks and assets require regular maintenance.
@@ -14,25 +21,9 @@
 
 ---
 
-## 📌 Key Facts
-
-- Railway maintenance requires temporary track/asset blocks.
-- Train schedules and maintenance activities must be carefully coordinated.
-- A change in train operations can affect an existing maintenance plan.
-- Emergency failures require immediate maintenance planning.
-- Manual decision-making can become difficult when multiple constraints change.
-
----
-
 ## 💡 Introducing TrackGenie
 
 **TrackGenie** is an **Agentic AI-powered decision-support platform** that automatically analyzes railway conditions and recommends optimized maintenance blocks with minimum operational disruption.
-
----
-
-## 📋 Problem Statement
-
-> To develop an intelligent system that automatically plans and dynamically replans railway maintenance blocks by considering train schedules, track availability, maintenance requirements, priorities and operational conflicts.
 
 ---
 
@@ -44,6 +35,16 @@
 - 🚨 Support emergency maintenance decisions.
 - 📊 Help officers compare and choose better plans.
 - 👨‍💼 Keep human approval in the decision-making loop.
+
+---
+
+## 📌 Key Facts
+
+- Railway maintenance requires temporary track/asset blocks.
+- Train schedules and maintenance activities must be carefully coordinated.
+- A change in train operations can affect an existing maintenance plan.
+- Emergency failures require immediate maintenance planning.
+- Manual decision-making can become difficult when multiple constraints change.
 
 ---
 
@@ -89,8 +90,6 @@
 | What-If Analysis | Limited | 🔮 Built-in |
 | Delay Prediction | Manual assessment | 📊 AI-based |
 | Emergency Planning | Manual coordination | 🚨 AI-assisted |
-| Explainable Recommendation | Limited | 🔍 Yes |
-| Human Approval | ✅ Yes | ✅ Yes |
 
 ---
 
@@ -105,7 +104,8 @@
 - 🛤️ Better utilization of railway assets
 
 ---
-
+<div align="center">
+          
 ## 🏗️ System Architecture
 
 ```text
@@ -131,6 +131,9 @@ Plan   What-If   Re-plan
           ↓
       Final Approval
 ```
+
+</div>
+
 ---
 
 ## 🔮 Future Vision
